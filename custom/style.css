@@ -1,0 +1,23 @@
+.author-img {
+    background-position: 0 -49px !important;
+}
+
+#colorlib-hero li:first-child {
+    background-position: 100px -54px !important;
+}
+
+/* hide next and previous button */
+.flex-control-nav.flex-control-paging {
+    display: none !important;
+}
+.flex-direction-nav {
+    display: none !important;
+}
+
+.text-yellow {
+    color: #ffa600;
+}
+
+#colorlib-hero .name {
+    font-size: 50px;
+}
