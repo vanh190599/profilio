@@ -1,9 +1,17 @@
+* {
+    color: black;
+}
+
 .author-img {
     background-position: 0 -49px !important;
 }
 
 #colorlib-hero li:first-child {
     background-position: 100px -54px !important;
+}
+
+#colorlib-hero {
+    margin-bottom: 90px !important;
 }
 
 /* hide next and previous button */
@@ -25,4 +33,18 @@
 .icon-custom img {
     width: 30px;
     height: 30px;
+}
+
+#social img {
+    width: 70px;
+}
+#social > div {
+    text-align: center;
+}
+#social {
+    padding-top: 0;
+    padding-bottom: 0px;
+}
+.text-white {
+    color: white !important;
 }
