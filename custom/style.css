@@ -48,3 +48,7 @@
 .text-white {
     color: white !important;
 }
+
+.colorlib-about {
+    padding-bottom: 0;
+}
